@@ -4,4 +4,5 @@
 Модель показала хорошие результаты, использовалась метрика F1-Score.
 
 figure_skating_preprocessing.ipynb содержит предобработку данных
+
 figure_skating.ipynb содержит обучение и тестирование модели CatBoostClassifier
